@@ -109,7 +109,6 @@ ul {
 /* top banner */
 
 .top-banner {
-    background-image: url('./assets/asset\ 30.png');
     background-color: #4fb3d4;
     background-size: 300px;
 }
@@ -248,7 +247,7 @@ header {
     position: relative;
     height: 300px;
     background: black;
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 35.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(https://unsplash.com/s/photos/image);
     background-size: cover;
     transition: 0.2s ease-out;
 }
