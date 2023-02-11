@@ -309,7 +309,7 @@ header {
 
 .cta-section {
     padding: 120px var(--padding-inline-section) 80px;
-    background-color: #183b54;
+    background-color: white;
 }
 
 .cta-section-container p {
