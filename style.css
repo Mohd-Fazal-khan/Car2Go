@@ -248,7 +248,7 @@ header {
     position: relative;
     height: 300px;
     background: black;
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./Images/img 13.png);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./Images/img 14.png);
     background-size: cover;
     transition: 0.2s ease-out;
 }
