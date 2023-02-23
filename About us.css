@@ -33,12 +33,14 @@ body {
 
 h1 {
     font-size: 3rem;
+    text-align: center;
 }
 p {
     font-family: 'Roboto', sans-serif;
     font-size: 1.25rem;
     color: var(--secondary-text-color);
     line-height: 1.8rem;
+    text-align: center;
 }
 .small-bold-text {
     font-size: 1rem;
